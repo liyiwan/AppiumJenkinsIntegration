@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.uxin.usedcar.testCase.BuyCarTest">
+        <methods>
+          <include name="test_2508_filter"/>
+          <include name="test_2503_serch_2"/>
+          <include name="test_2521_FQG_Detail"/>
+          <include name="first"/>
+          <include name="test_2510_HelpFindCar_fyb"/>
+          <include name="tearDown"/>
+          <include name="test_2507_price"/>
+          <include name="inputQaNameAndQaId"/>
+          <include name="test_2629_YXRZ"/>
+          <include name="test_2627_halfcarlist"/>
+          <include name="test_2509_HelpFindCar"/>
+          <include name="test_2512_list_recommend_fyb"/>
+          <include name="test_2635_defectDetail"/>
+          <include name="test_2739_switchSeeList"/>
+          <include name="test_2631_examineVideoDetail"/>
+          <include name="test_2520_CHAOZHI"/>
+          <include name="test_2502_serch_1"/>
+          <include name="test_2632_33_examineReportPage"/>
+          <include name="test_2634_defectDetail"/>
+          <include name="test_2506_brand_fyb"/>
+          <include name="test_2519_BIG_PICTURE"/>
+          <include name="test_2740_defectPointDetail"/>
+          <include name="test_2505_brand"/>
+          <include name="test_2513_car_compare"/>
+          <include name="test_2515_YYKC"/>
+          <include name="test_2518_SHARE"/>
+          <include name="test_2514_YYKC_Delete"/>
+          <include name="test_2625_carDetailAll"/>
+          <include name="test_2741_IM"/>
+          <include name="test_2504_city"/>
+          <include name="test_2501_carShow"/>
+          <include name="test_2522_CYDT"/>
+          <include name="test_2626_navigation_tab"/>
+          <include name="test_2737_tuijianCard"/>
+          <include name="setUp"/>
+          <include name="test_2511_list_recommend"/>
+          <include name="test_2523_PZLD"/>
+          <include name="test_2524_CKGY"/>
+          <include name="test_2517_YYKC_KCRC"/>
+          <include name="test_2628_carlistSeeListExpo"/>
+          <include name="test_2736_tuijianCard"/>
+          <include name="test_2738_tuijianCard"/>
+        </methods>
+      </class> <!-- com.uxin.usedcar.testCase.BuyCarTest -->
+      <class name="com.uxin.usedcar.testCase.ValuableBookTest">
+        <methods>
+          <include name="test_413_BaiKeCheck"/>
+          <include name="test_408_WDCarList"/>
+          <include name="test_410_searchSuggest"/>
+          <include name="test_417_RMZX"/>
+          <include name="tearDown"/>
+          <include name="test_401_QGZG"/>
+          <include name="test_402_searchBar"/>
+          <include name="test_403_wendaFocus"/>
+          <include name="test_406_WDSubmit"/>
+          <include name="test_409_searchSuggest"/>
+          <include name="test_414_ZXBaiKe"/>
+          <include name="inputQaNameAndQaId"/>
+          <include name="test_418_RMZXMore"/>
+          <include name="test_411_ZXShare"/>
+          <include name="test_407_WDSubmit"/>
+          <include name="test_412_BaiKeCheck"/>
+          <include name="setUp"/>
+          <include name="test_415_TIWEN"/>
+          <include name="test_404_wendaFocus"/>
+          <include name="test_416_moreZIXUN"/>
+          <include name="first"/>
+          <include name="test_405_BZB"/>
+          <include name="test_419_RMZXMore"/>
+        </methods>
+      </class> <!-- com.uxin.usedcar.testCase.ValuableBookTest -->
+      <class name="com.uxin.usedcar.testCase.SellCarTest">
+        <methods>
+          <include name="test_3007_CJJL"/>
+          <include name="test_3003_MFZX"/>
+          <include name="setUp"/>
+          <include name="test_3006_YYMC"/>
+          <include name="tearDown"/>
+          <include name="test_3004_MCGJ"/>
+          <include name="test_3005_GJTJ"/>
+          <include name="first"/>
+          <include name="inputQaNameAndQaId"/>
+          <include name="test_3001_YYMC"/>
+          <include name="test_3002_YCJL"/>
+        </methods>
+      </class> <!-- com.uxin.usedcar.testCase.SellCarTest -->
+      <class name="com.uxin.usedcar.testCase.MyTest">
+        <methods>
+          <include name="last"/>
+          <include name="test_5640_CNXH"/>
+          <include name="tearDown"/>
+          <include name="test_5630_gjx"/>
+          <include name="inputQaNameAndQaId"/>
+          <include name="test_5710_llls"/>
+          <include name="test_5710_ZADL"/>
+          <include name="test_5720_wddy"/>
+          <include name="test_5620_yxgj"/>
+          <include name="test_5710_wdsc"/>
+          <include name="test_5900_dykg"/>
+          <include name="setUp"/>
+          <include name="test_5510_wmdc"/>
+          <include name="test_5530_wmaidc"/>
+          <include name="first"/>
+          <include name="test_5100_xx"/>
+        </methods>
+      </class> <!-- com.uxin.usedcar.testCase.MyTest -->
+      <class name="com.uxin.usedcar.testCase.HomePageTest">
+        <methods>
+          <include name="test_1104_GJ"/>
+          <include name="test_1401_RMJG"/>
+          <include name="test_1501_YCG1"/>
+          <include name="test_1403_QBCY"/>
+          <include name="last"/>
+          <include name="test_1301_YXRZJS"/>
+          <include name="tearDown"/>
+          <include name="test_1202_GDCY"/>
+          <include name="test_1502_YCGBN"/>
+          <include name="inputQaNameAndQaId"/>
+          <include name="test_1800_CXKP"/>
+          <include name="test_1101_MC"/>
+          <include name="setUp"/>
+          <include name="test_1103_MC"/>
+          <include name="test_1201_CNXH"/>
+          <include name="test_1102_YCG"/>
+          <include name="test_1001_CSXZ"/>
+          <include name="test_1302_YCGJS"/>
+          <include name="test_1105_ZNXC"/>
+          <include name="test_1700_WDDY"/>
+          <include name="first"/>
+          <include name="test_1402_RMPP"/>
+          <include name="test_1601_RMTJ"/>
+        </methods>
+      </class> <!-- com.uxin.usedcar.testCase.HomePageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

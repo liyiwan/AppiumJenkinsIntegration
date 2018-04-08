@@ -1,0 +1,9 @@
+ev：start（type=a）
+ev：openapp/start_click（type=c）
+ev：home_page（type=w）
+pl：a_home/guess_like_expo/algorithm/bus（type=e）
+ev：buttom/mypage（type=c）
+ev：/Page/mypage（type=w）
+ev：login（type=c）
+ev：used_login#tel_num=[value]（type=c）
+b
